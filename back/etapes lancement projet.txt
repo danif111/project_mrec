@@ -1,0 +1,9 @@
+# se rassurer que python est bien installé
+
+py -m venv myTidyEnv   
+myTidyVEnv\Scripts\activate   
+cd TME_webAPI_DBO/mySearchEngine
+pip install djangorestframework
+pip install requests
+pip install django-cors-headers
+py manage.py runserver

@@ -1,0 +1,60 @@
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  </head>
+  <style>
+  </style>
+  
+  <!-- menu bar -->
+  <div class="toolbar" role="banner">
+    <img
+      width="40"
+      alt="Logo"
+      src="../assets/logo.png"
+    />
+    <span>Library</span>
+    
+      <div class="spacer"></div>
+      <span></span>
+     <!-- here we put what's on the menu bar-->
+     
+  </div>
+  
+  <!-- main view -->
+  <div class="content" role="main">
+    <!-- Highlight Card -->
+    <!-- titre -->
+    <h1>Our books</h1>
+    <!-- search bar -->
+    <div class="search-bar">
+        <form>
+          <input type="text" (keyup)="onKeyUp($event)" placeholder="Search for a book here..." >
+          <button type="submit"><i class="fas fa-search"></i></button>
+        </form>
+        <div *ngIf="showAutoComplete">
+          <ul>
+            <li class="list-element" *ngFor="let item of filteredItems.founded"(click)="research(item)">{{item}}</li>
+          </ul>
+          <ul *ngIf="showAutoComplete && filteredItems.founded.length === 0 ">
+            <li class="list-title">Not founded. Maybe you mean:</li>
+            <li class="list-element" *ngFor="let item of filteredItems.similar"(click)="research(item)">{{item}}</li>
+          </ul>
+        </div>
+    </div>
+  
+
+    <div class="card-container" >
+      <a class="book-box" target="_blank" rel="noopener" href="book/{{book.b_id}}" *ngFor= "let book of library">
+          
+          <img src={{book.image}} alt={{book.title}}>
+          <h2>{{book.title}}</h2>
+          <!-- put here word-->
+          <p></p>
+          <!-- put here occurence-->
+          <p *ngIf="book.occurrence !== undefined">occurs: {{book.occurrence}}</p>
+          <span class="tooltip">{{book.title}}</span>
+       </a>
+    </div>
+  </div>
+  <router-outlet></router-outlet>
+  

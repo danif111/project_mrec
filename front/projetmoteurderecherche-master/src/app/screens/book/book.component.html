@@ -1,0 +1,33 @@
+<div class="modal" [ngClass]="{'show': showModal}">
+  <div class="modal-content">
+    <div class="modal-body">
+      <div class="card">
+        <div class="card-image">
+          <img src={{book.image}} alt={{book.title}}>
+        </div>
+        <div class="card-content">
+          <h2 class="card-title">{{book.title}}</h2>
+          <p class="card-description">Authors: <span class="card-author"> {{book.authors}}</span> </p>
+          <p class="card-description" *ngIf="book.translators !== ''">Translators: <span class="card-author"> {{book.translators}} </span> </p>
+          <p class="card-description">Languages: <span class="card-author"> {{book.languages}} </span> </p>
+          <p class="card-description" *ngIf="book.bookShelves !== ''">Book Shelves: <span class="card-author">{{book.bookShelves}}</span></p>
+          <p class="card-description">Subjects: <span class="card-author">{{book.subjects}} </span> </p>
+          <a href="/" class="card-button"><span><i class="fas fa-arrow-left"></i></span>Retour</a>
+          <button class="close"  (click)="closeModal()">Lire <span><i class="fas fa-arrow-right"></i></span></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<mat-progress-spinner color="warn" *ngIf="loading"></mat-progress-spinner>
+
+
+<div class=".book" *ngIf="!showModal">
+  <div class=".page"  [innerHTML]="book.html"></div>
+</div>
+
+
+
+
+ 

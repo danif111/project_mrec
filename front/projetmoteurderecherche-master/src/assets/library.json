@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Romeo and Juliet",
+        "image": "https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1513.txt.utf-8"
+    },
+    {
+        "id": 2,
+        "title": "A Room with a View",
+        "image": "https://www.gutenberg.org/cache/epub/2641/pg2641.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/2641.txt.utf-8"
+    },
+    {
+        "id": 3,
+        "title": "Middlemarch",
+        "image": "https://www.gutenberg.org/cache/epub/145/pg145.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/145.txt.utf-8"
+    },
+    {
+        "id": 4,
+        "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+        "image": "https://www.gutenberg.org/cache/epub/37106/pg37106.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/37106.txt.utf-8"
+    },
+    {
+        "id": 5,
+        "title": "The Complete Works of William Shakespeare",
+        "image": "https://www.gutenberg.org/cache/epub/100/pg100.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/100.txt.utf-8"
+    },
+    {
+        "id": 6,
+        "title": "The Enchanted April",
+        "image": "https://www.gutenberg.org/cache/epub/16389/pg16389.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/16389.txt.utf-8"
+    },
+    {
+        "id": 7,
+        "title": "The Blue Castle: a novel",
+        "image": "https://www.gutenberg.org/cache/epub/67979/pg67979.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/67979.txt.utf-8"
+    },
+    {
+        "id": 8,
+        "title": "The Adventures of Ferdinand Count Fathom \u2014 Complete",
+        "image": "https://www.gutenberg.org/cache/epub/6761/pg6761.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/6761.txt.utf-8"
+    },
+    {
+        "id": 9,
+        "title": "Cranford",
+        "image": "https://www.gutenberg.org/cache/epub/394/pg394.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/394.txt.utf-8"
+    },
+    {
+        "id": 10,
+        "title": "My Life \u2014 Volume 1",
+        "image": "https://www.gutenberg.org/cache/epub/5197/pg5197.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/5197.txt.utf-8"
+    },
+    {
+        "id": 11,
+        "title": "Twenty Years After",
+        "image": "https://www.gutenberg.org/cache/epub/1259/pg1259.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1259.txt.utf-8"
+    },
+    {
+        "id": 12,
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "image": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/84.txt.utf-8"
+    },
+    {
+        "id": 13,
+        "title": "Pride and Prejudice",
+        "image": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1342.txt.utf-8"
+    },
+    {
+        "id": 14,
+        "title": "The Art of Money Getting; Or, Golden Rules for Making Money",
+        "image": "https://www.gutenberg.org/cache/epub/8581/pg8581.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/8581.txt.utf-8"
+    },
+    {
+        "id": 15,
+        "title": "Alice's Adventures in Wonderland",
+        "image": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/11.txt.utf-8"
+    },
+    {
+        "id": 16,
+        "title": "The Picture of Dorian Gray",
+        "image": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/174.txt.utf-8"
+    },
+    {
+        "id": 17,
+        "title": "The Great Gatsby",
+        "image": "https://www.gutenberg.org/cache/epub/64317/pg64317.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/64317.txt.utf-8"
+    },
+    {
+        "id": 18,
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "image": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/46.txt.utf-8"
+    },
+    {
+        "id": 19,
+        "title": "Dracula",
+        "image": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/345.txt.utf-8"
+    },
+    {
+        "id": 20,
+        "title": "A Doll's House : a play",
+        "image": "https://www.gutenberg.org/cache/epub/2542/pg2542.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/2542.txt.utf-8"
+    },
+    {
+        "id": 21,
+        "title": "The Scarlet Letter",
+        "image": "https://www.gutenberg.org/cache/epub/25344/pg25344.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/25344.txt.utf-8"
+    },
+    {
+        "id": 22,
+        "title": "Noli Me Tangere",
+        "image": "https://www.gutenberg.org/cache/epub/20228/pg20228.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/20228.txt.utf-8"
+    },
+    {
+        "id": 23,
+        "title": "The Brothers Karamazov",
+        "image": "https://www.gutenberg.org/cache/epub/28054/pg28054.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/28054.txt.utf-8"
+    },
+    {
+        "id": 24,
+        "title": "Simple Sabotage Field Manual",
+        "image": "https://www.gutenberg.org/cache/epub/26184/pg26184.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/26184.txt.utf-8"
+    },
+    {
+        "id": 25,
+        "title": "The Iliad",
+        "image": "https://www.gutenberg.org/cache/epub/6130/pg6130.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/6130.txt.utf-8"
+    },
+    {
+        "id": 26,
+        "title": "The Count of Monte Cristo, Illustrated",
+        "image": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1184.txt.utf-8"
+    },
+    {
+        "id": 27,
+        "title": "The Prince",
+        "image": "https://www.gutenberg.org/cache/epub/1232/pg1232.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1232.txt.utf-8"
+    },
+    {
+        "id": 28,
+        "title": "War and Peace",
+        "image": "https://www.gutenberg.org/cache/epub/2600/pg2600.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/2600.txt.utf-8"
+    },
+    {
+        "id": 29,
+        "title": "The Republic",
+        "image": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1497.txt.utf-8"
+    },
+    {
+        "id": 30,
+        "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
+        "image": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1727.txt.utf-8"
+    },
+    {
+        "id": 31,
+        "title": "The Problems of Philosophy",
+        "image": "https://www.gutenberg.org/cache/epub/5827/pg5827.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/5827.txt.utf-8"
+    },
+    {
+        "id": 32,
+        "title": "Wuthering Heights",
+        "image": "https://www.gutenberg.org/cache/epub/768/pg768.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/768.txt.utf-8"
+    },
+    {
+        "id": 33,
+        "title": "Treasure Island",
+        "image": "https://www.gutenberg.org/cache/epub/120/pg120.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/120.txt.utf-8"
+    },
+    {
+        "id": 34,
+        "title": "Anne of Green Gables",
+        "image": "https://www.gutenberg.org/cache/epub/45/pg45.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/45.txt.utf-8"
+    },
+    {
+        "id": 35,
+        "title": "Winnie-the-Pooh",
+        "image": "https://www.gutenberg.org/cache/epub/67098/pg67098.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/67098.txt.utf-8"
+    },
+    {
+        "id": 36,
+        "title": "Don Quixote",
+        "image": "https://www.gutenberg.org/cache/epub/996/pg996.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/996.txt.utf-8"
+    },
+    {
+        "id": 37,
+        "title": "Little Women",
+        "image": "https://www.gutenberg.org/cache/epub/514/pg514.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/514.txt.utf-8"
+    },
+    {
+        "id": 38,
+        "title": "Autobiography of Benjamin Franklin",
+        "image": "https://www.gutenberg.org/cache/epub/20203/pg20203.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/20203.txt.utf-8"
+    },
+    {
+        "id": 39,
+        "title": "Anna Karenina",
+        "image": "https://www.gutenberg.org/cache/epub/1399/pg1399.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/1399.txt.utf-8"
+    },
+    {
+        "id": 40,
+        "title": "The War of the Worlds",
+        "image": "https://www.gutenberg.org/cache/epub/36/pg36.cover.medium.jpg",
+        "content": "https://www.gutenberg.org/ebooks/36.txt.utf-8"
+    }
+]
